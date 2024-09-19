@@ -1,5 +1,8 @@
 # ninja log v6
-2	476	1726744109675901944	CMakeFiles/untitled2.dir/main.cpp.o	ee302680d634b377
-477	520	1726744110150911844	untitled2	28dcd9b8615ddfa7
 5	483	1726744305099861877	CMakeFiles/untitled2.dir/main.cpp.o	ee302680d634b377
 483	532	1726744305577741685	untitled2	28dcd9b8615ddfa7
+1	517	1726744543226201620	CMakeFiles/untitled2.dir/Switch_case.cpp.o	8a46448023dfc1c4
+4	504	1726745434698105547	CMakeFiles/untitled2.dir/randomness.cpp.o	4e1be135c281363d
+4	507	1726745434697700258	CMakeFiles/untitled2.dir/Switch_case2.cpp.o	eeecccf2b0869413
+1	272	1726745443225841246	CMakeFiles/randomness.dir/randomness.cpp.o	8343ce8c759d333a
+272	302	1726745443496763390	randomness	aafc8d2dc2cc409e
