@@ -14,6 +14,8 @@ int main()
         case 3:
             cout<<"Three\n";
         break;
+        default:
+        cout<<"Wrong Answer!!\n";
     }
     return 0;
 }
