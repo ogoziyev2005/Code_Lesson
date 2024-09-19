@@ -20,7 +20,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					]
 				}
 			],
@@ -40,7 +41,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					]
 				}
 			],
@@ -56,22 +58,29 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "problem1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-problem1-Debug-75cafbd2b96406c3631f.json",
+					"jsonFile" : "target-problem1-Debug-b60bb01366aa28b6a8d9.json",
 					"name" : "problem1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "problem2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-problem2-Debug-e112e6b91e45ca5a1b89.json",
+					"jsonFile" : "target-problem2-Debug-ad877d12da5fa9cea50e.json",
 					"name" : "problem2",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "problem3::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-problem3-Debug-a2eca49542a1deae9494.json",
+					"jsonFile" : "target-problem3-Debug-227245452baf5d7d047a.json",
 					"name" : "problem3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem4-Debug-40a06ec6fef44ba7b292.json",
+					"name" : "problem4",
 					"projectIndex" : 0
 				},
 				{

@@ -6,8 +6,7 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(untitled2 Switch_case.cpp)
 add_executable (Switchcase2 Switch_case2.cpp)
 add_executable(randomness randomness.cpp)
-add_executable(problem1 problem1.cpp
-        problem2.cpp
-        problem3.cpp)
+add_executable(problem1 problem1.cpp)
 add_executable(problem2 problem2.cpp)
 add_executable(problem3 problem3.cpp)
+add_executable(problem4 problem4.cpp)
